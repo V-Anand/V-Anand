@@ -1,5 +1,7 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anandv" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anandv?trk=profile-badge">Anand Vaidyanathan</a></div>
+<div xmlns="http://www.w3.org/1999/xhtml" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anandv" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anandv?trk=profile-badge">Anand Vaidyanathan</a>
+</div>
 </foreignObject>
 </svg>              
